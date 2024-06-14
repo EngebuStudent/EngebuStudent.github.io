@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/disk-gis/static/css/main.cd9ab69c.css",
+    "main.js": "/disk-gis/static/js/main.61093dd7.js",
+    "static/media/diskgolf.png": "/disk-gis/static/media/diskgolf.091970e8c1a1e334eed0.png",
+    "index.html": "/disk-gis/index.html",
+    "main.cd9ab69c.css.map": "/disk-gis/static/css/main.cd9ab69c.css.map",
+    "main.61093dd7.js.map": "/disk-gis/static/js/main.61093dd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9ab69c.css",
+    "static/js/main.61093dd7.js"
+  ]
+}
